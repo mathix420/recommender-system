@@ -1,7 +1,7 @@
 .SILENT:
 
 all:
-	echo "type 'make test'"
+	echo "try 'make test'"
 
 test:
 	/bin/env python3 test.py
